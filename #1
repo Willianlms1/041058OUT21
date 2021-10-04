@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 TVG-LOGO="http://consultareds.byethost4.com/m3u/LOGO/ANIMESTATION.jpg" GROUP-TITLE="ANIMES", ANIMESTATION
+#EXTINF:-1 tvg-name="SRF 1 HD" TVG-LOGO="http://consultareds.byethost4.com/m3u/LOGO/ANIMESTATION.jpg" GROUP-TITLE="ANIMES", ANIMESTATION
 https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w1464086466.m3u8
 
 #EXTINF:-1 TVG-LOGO="http://consultareds.byethost4.com/m3u/LOGO/BAND.jpg" GROUP-TITLE="TV ABERTA", BAND
