@@ -1,0 +1,154 @@
+#EXTM3U
+
+A
+
+#EXTINF:-1 TVG-LOGO="http://consultareds.byethost4.com/m3u/LOGO/ANIMESTATION.jpg" GROUP-TITLE="ANIMES", ANIMESTATION
+https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w1464086466.m3u8
+
+B
+
+#EXTINF:-1 TVG-LOGO="http://consultareds.byethost4.com/m3u/LOGO/BAND.jpg" GROUP-TITLE="TV ABERTA", BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?
+
+C
+
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/CANAL%2029.png" GROUP-TITLE="SÉRIES, ANIMES E FILMES",CANAL 29 HD
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w732902769.m3u8
+
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/CATVE-CULTURA.png"  group-title="VARIEDADES",CATVE - CULTURA (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/COM%20BRASIL.png" GROUP-TITLE="VARIEDADES", COM BRASIL
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8?IMDSFULL
+
+
+D
+
+
+
+E
+
+
+
+F
+
+#EXTINF:-1 TVG-LOGO="http://consultareds.byethost4.com/m3u/LOGO/FILMES%2024Hs%20-%201.png" GROUP-TITLE="SÉRIES, ANIMES E FILMES", FILMES 24H - 1
+https://stmv1.srvstm.com/channel1/channel1/chunklist_w1044249302.m3u8
+
+#EXTINF:-1 TVG-LOGO="http://consultareds.byethost4.com/m3u/LOGO/FILMES%2024Hs%20-%202.png" GROUP-TITLE="SÉRIES, ANIMES E FILMES", FILMES 24H - 2
+https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
+
+G
+
+#EXTINF:-1 TVG-LOGO="http://consultareds.byethost4.com/m3u/LOGO/GOSPEL%20MOVIES%20TELEVISION.jpg" GROUP-TITLE="SÉRIES, ANIMES E FILMES", GOSPEL MOVIES TELEVISION
+https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?
+
+H
+
+
+
+I
+
+
+
+J
+
+
+
+K
+
+
+
+L
+
+
+
+M
+
+
+
+N
+
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/NOVO%20TEMPO.jpg" group-title="RELIGIOSO", NOVO TEMPO RS
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?KeltecMPIPTV
+
+O
+
+
+
+P
+
+
+
+Q
+
+
+
+R
+
+#EXTINF:-1 TVG-LOGO="http://consultareds.byethost4.com/m3u/LOGO/RECORD%20NEWS.jpg" GROUP-TITLE="NOTÍCIAS", RECORD NEWS
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 TVG-LOGO="http://consultareds.byethost4.com/m3u/LOGO/RECORD.jpg" GROUP-TITLE="TV ABERTA", RECORD TV MG
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8
+
+#EXTINF:-1 TVG-LOGO="http://consultareds.byethost4.com/m3u/LOGO/RECORD.jpg" GROUP-TITLE="TV ABERTA", RECORD TV SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
+
+#EXTINF:-1 TVG-LOGO="http://consultareds.byethost4.com/m3u/LOGO/REDE%20BRASIL.png" GROUP-TITLE="TV ABERTA", REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+
+#EXTINF:-1 TVG-LOGO="http://consultareds.byethost4.com/m3u/LOGO/RETR%c3%94%20CARTOON.jpg" GROUP-TITLE="ANIMES", RETRÔ CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+S
+
+#EXTINF:-1 TVG-LOGO="http://consultareds.byethost4.com/m3u/LOGO/SBT.jpg" GROUP-TITLE="TV ABERTA", SBT
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8?
+
+T
+
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/TV%20C%c3%82MARA.png" group-title="NOTÍCIAS" ,TV CÂMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/TV%20JORNAL%20DO%20NORDESTE.png" GROUP-TITLE="SÉRIES, ANIMES E FILMES", TV JORNAL DO NORDESTE
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/TV%20S%c3%89RIES.jpeg" GROUP-TITLE="SÉRIES, ANIMES E FILMES",TV SERIES
+https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
+
+
+
+U
+
+
+
+V
+
+
+
+X
+
+
+
+W
+
+#EXTINF:-1 TVG-LOGO="http://consultareds.byethost4.com/m3u/LOGO/WARNER.png" GROUP-TITLE="SÉRIES, ANIMES E FILMES", WARNER CHANNEL
+https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8
+
+Y
+
+
+
+Z
+
+
+
+
+
+
+
+
+
+
+
