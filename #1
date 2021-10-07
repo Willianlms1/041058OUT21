@@ -1,177 +1,157 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/A%26E.png" group-title="SÉRIES, ANIMES E FILMES", A&E
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/A%26E.png" group-title=" SÉRIES, ANIMES E FILMES ", A&E
 https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/ANIMAL%20PLANET.png" group-title="SÉRIES, DOCUMENTÁRIOS", ANIMAL PLANET
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/ANIMAL%20PLANET.png" group-title=" SÉRIES, DOCUMENTÁRIOS ", ANIMAL PLANET
 https://m3u9.ml/b/hls1/animalplanet.m3u8?mu3zAQc9HC3GbwJq=nmMh_jDNFJjlu329BbYH9w&3U1G7qaTxrPbalZnEx=1633591390
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/ANIMESTATION.jpg" group-title="ANIMES", ANIMESTATION
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/ANIMESTATION.jpg" group-title=" ANIMES ", ANIMESTATION
 https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w1464086466.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/BAND.jpg" group-title="TV ABERTA", BAND
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/BAND.jpg" group-title=" TV ABERTA ", BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?
 
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/BONS%20TEMPOS%20TV.jpg" group-title="SÉRIES, ANIMES E FILMES", BONS TEMPOS TV
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/BONS%20TEMPOS%20TV.jpg" group-title=" SÉRIES, ANIMES E FILMES ", BONS TEMPOS TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w186200016.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/CANAL%2029.png" group-title="SÉRIES, ANIMES E FILMES",CANAL 29 HD
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/CANAL%2029.png" group-title=" SÉRIES, ANIMES E FILMES ",CANAL 29 HD
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w732902769.m3u8
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/CINE%20PIX%20TV.jpg" group-title="SÉRIES, ANIMES E FILMES",CINEPIX
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/CINE%20PIX%20TV.jpg" group-title=" SÉRIES, ANIMES E FILMES ",CINEPIX
 https://stmv1.srvif.com/cinepix/cinepix/chunklist_w1910848225.m3u8
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/CLASSIQUE%20TV.jpg" group-title="SÉRIES, ANIMES E FILMES", CLASSIC TV
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/CLASSIQUE%20TV.jpg" group-title=" SÉRIES, ANIMES E FILMES ", CLASSIC TV
 http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/COM%20BRASIL.png" group-title="VARIEDADES", COM BRASIL
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/COM%20BRASIL.png" group-title=" VARIEDADES ", COM BRASIL
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8?IMDSFULL
 
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/COMEDY%20CENTRAL.png" group-title="SÉRIES, ANIMES E FILMES", COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/COMEDY%20CENTRAL.png" group-title=" SÉRIES, ANIMES E FILMES ", COMEDY CENTRAL
 https://m3u9.ml/b/hls1/comedycentral.m3u8?mu3zAQc9HC3GbwJq=24t8-HNuOufF6dBA3CZiSw&3U1G7qaTxrPbalZnEx=1633592057
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/CATVE-CULTURA.png"  group-title="VARIEDADES",CATVE - CULTURA (PR)
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/CATVE-CULTURA.png"  group-title=" VARIEDADES ",CATVE - CULTURA (PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8?IMDSFULL
 
-
-
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/DISCOVERY%20CHANNEL.png" group-title="SÉRIES, DOCUMENTÁRIOS", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/DISCOVERY%20CHANNEL.png" group-title=" SÉRIES, DOCUMENTÁRIOS ", DISCOVERY CHANNEL
 https://m3u9.ml/b/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=XG7bPpXdsPAukrp6jlB7jQ&3U1G7qaTxrPbalZnEx=1633591046
 
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/DISCOVERY%20H%26H.png" group-title="SÉRIES, DOCUMENTÁRIOS", DISCOVERY H&H
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/DISCOVERY%20H%26H.png" group-title=" SÉRIES, DOCUMENTÁRIOS ", DISCOVERY H&H
 https://m3u9.ml/b/hls1/discoveryhomeihealth.m3u8?mu3zAQc9HC3GbwJq=z9i603nFm978p5vcWWz5_g&3U1G7qaTxrPbalZnEx=1633591293
 
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/DISCOVERY%20INVESTIGATION.png" group-title="SÉRIES, DOCUMENTÁRIOS", DISCOVERY INVESTIGATION
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/DISCOVERY%20INVESTIGATION.png" group-title=" SÉRIES, DOCUMENTÁRIOS ", DISCOVERY INVESTIGATION
 https://m3u9.ml/b/hls1/investigacaodiscovery.m3u8?mu3zAQc9HC3GbwJq=hsFCRN_pnRqyB7595bnpWA&3U1G7qaTxrPbalZnEx=1633591765
 
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/DISCOVERY%20TURBO.jpg" group-title="SÉRIES, DOCUMENTÁRIOS", DISCOVERY TURBO
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/DISCOVERY%20TURBO.jpg" group-title=" SÉRIES, DOCUMENTÁRIOS ", DISCOVERY TURBO
 https://m3u9.ml/b/hls1/discoveryturbo.m3u8?mu3zAQc9HC3GbwJq=4bFjkkS9HCI_3Hlni7YuTQ&3U1G7qaTxrPbalZnEx=1633591123
 
-
-
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/FILMES%2024Hs%20-%201.png" group-title="SÉRIES, ANIMES E FILMES", FILMES 24H - 1
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/FILMES%2024Hs%20-%201.png" group-title= " SÉRIES, ANIMES E FILMES ", FILMES 24H 1
 https://stmv1.srvstm.com/channel1/channel1/chunklist_w1044249302.m3u8
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/FILMES%2024Hs%20-%202.png" group-title="SÉRIES, ANIMES E FILMES", FILMES 24H - 2
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/FILMES%2024Hs%20-%202.png" group-title= " SÉRIES, ANIMES E FILMES ", FILMES 24H 2
 https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/GOSPEL%20MOVIES%20TELEVISION.jpg" group-title="SÉRIES, ANIMES E FILMES", GOSPEL MOVIES TELEVISION
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/FISH%20TV.png" group-title= " VARIEDADES ", FISH TV
+http://168.205.87.198:8555/live/123456/123456/62.m3u8
+
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/GOSPEL%20MOVIES%20TELEVISION.jpg" group-title= " SÉRIES, ANIMES E FILMES ", GOSPEL MOVIES TELEVISION
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/GOSPEL%20MUSIC%20TELEVISION.jpg" group-title="SHOWS E CLIPES",GOSPEL MUSIC TELEVISION
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/GOSPEL%20MUSIC%20TELEVISION.jpg" group-title= " SHOWS E CLIPES ",GOSPEL MUSIC TELEVISION
 http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
 
-
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/H2.jpg" group-title="SÉRIES, DOCUMENTÁRIOS", H2
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/H2.jpg" group-title=" SÉRIES, DOCUMENTÁRIOS ", H2
 https://m3u9.ml/b/hls1/history2.m3u8?mu3zAQc9HC3GbwJq=jxKxfIl2TIdU1SpYV_K0zw&3U1G7qaTxrPbalZnEx=1633590872
 
-
-
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/JETSONS%20TV.jpg" group-title="ANIME", JETSONS TV
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/JETSONS%20TV.jpg" group-title=" ANIME ", JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1154195187.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/LONDRINA%20TV.jpg" group-title="SÉRIES, ANIMES E FILMES", LONDRINA TV
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/LONDRINA%20TV.jpg" group-title=" SÉRIES, ANIMES E FILMES ", LONDRINA TV
 https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w516730791.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/NAT%20GEO%20WILD.png" group-title="SÉRIES, DOCUMENTÁRIOS", NAT GEO
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/NAT%20GEO%20WILD.png" group-title=" SÉRIES, DOCUMENTÁRIOS ", NAT GEO
 https://m3u9.ml/b/hls1/natgeowild.m3u8?mu3zAQc9HC3GbwJq=LeSpJW48Q4q3wxBc-N_E1Q&3U1G7qaTxrPbalZnEx=1633591589
 
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/NATIONAL%20GEOGRAPHIC.png" group-title="SÉRIES, DOCUMENTÁRIOS", NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/NATIONAL%20GEOGRAPHIC.png" group-title=" SÉRIES, DOCUMENTÁRIOS ", NATIONAL GEOGRAPHIC
 https://m3u9.ml/b/hls1/natgeo.m3u8?mu3zAQc9HC3GbwJq=ly4we--g-fuSMnl9HZj1Dg&3U1G7qaTxrPbalZnEx=1633591703
 
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/NOVA%20PLAY.jpg" group-title="SÉRIES, ANIMES E FILMES", NOVA PLAY TV
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/NOVA%20PLAY.jpg" group-title=" SÉRIES, ANIMES E FILMES ", NOVA PLAY TV
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/NOVO%20TEMPO.jpg" group-title="RELIGIOSO", NOVO TEMPO
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/NOVO%20TEMPO.jpg" group-title=" RELIGIOSO ", NOVO TEMPO
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/NOVO%20TEMPO.jpg" group-title="RELIGIOSO", NOVO TEMPO RS
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/NOVO%20TEMPO.jpg" group-title=" RELIGIOSO ", NOVO TEMPO RS
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?KeltecMPIPTV
 
-
-
-
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/RECORD%20NEWS.jpg" group-title="NOTÍCIAS", RECORD NEWS
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/RECORD%20NEWS.jpg" group-title=" NOTÍCIAS ", RECORD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/RECORD.jpg" group-title="TV ABERTA", RECORD TV MG
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/RECORD.jpg" group-title=" TV ABERTA ", RECORD TV MG
 http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/RECORD.jpg" group-title="TV ABERTA", RECORD TV SP
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/RECORD.jpg" group-title=" TV ABERTA ", RECORD TV SP
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/REDE%20TV%20-%20ES.jpg" group-title="TV ABERTA", REDETV ES
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/REDE%20TV%20-%20ES.jpg" group-title=" TV ABERTA ", REDETV ES
 https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5874329047397081000
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/REDE%20BRASIL.png" group-title="TV ABERTA", REDE BRASIL
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/REDE%20BRASIL.png" group-title=" TV ABERTA ", REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/RETR%c3%94%20CARTOON.jpg" group-title="ANIMES", RETRÔ CARTOON
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/RETR%c3%94%20CARTOON.jpg" group-title=" ANIMES ", RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/SBT.jpg" group-title="TV ABERTA", SBT
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/SBT.jpg" group-title=" TV ABERTA ", SBT
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8?
 
-
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/THE%20HISTORY%20CHANNEL.jpg" group-title="SÉRIES, DOCUMENTÁRIOS", THE HISTORY CHANNEL - ALTERNATIVO
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/THE%20HISTORY%20CHANNEL.jpg" group-title=" SÉRIES, DOCUMENTÁRIOS ", THE HISTORY CHANNEL - ALTERNATIVO
 https://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_2.m3u8
 
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/THE%20HISTORY%20CHANNEL.jpg" group-title="SÉRIES, DOCUMENTÁRIOS", THE HISTORY CHANNEL
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/THE%20HISTORY%20CHANNEL.jpg" group-title=" SÉRIES, DOCUMENTÁRIOS ", THE HISTORY CHANNEL
 https://m3u9.ml/b/hls1/history.m3u8?mu3zAQc9HC3GbwJq=Ev5T5VkQ34JjT4MupJ7_CQ&3U1G7qaTxrPbalZnEx=1633591484
 
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/TV%20APARECIDA.jpg" group-title="TV ABERTA", TV APARECIDA
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/TV%20APARECIDA.jpg" group-title=" TV ABERTA ", TV APARECIDA
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/TV%20ASSEMBLEIA%20CEAR%c3%81.jpg" group-title="VARIEDADES",Tv ASSEMBLEIA CEARÁ
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/TV%20ASSEMBLEIA%20CEAR%c3%81.jpg" group-title=" VARIEDADES ",Tv ASSEMBLEIA CEARÁ
 http://srv6.zoeweb.tv:1935/z404-live/stream/chunklist_w76368286.m3u8
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/TV%20C%c3%82MARA.png" group-title="NOTÍCIAS" ,TV CÂMARA
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/TV%20C%c3%82MARA.png" group-title=" NOTÍCIAS " ,TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8?IMDSFULL
 
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/TV%20CHANNEL%20NETWORK.jpg" group-title="SÉRIES, ANIMES E FILMES", TV CHANNEL NERTWORK
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/TV%20CHANNEL%20NETWORK.jpg" group-title=" SÉRIES, ANIMES E FILMES ", TV CHANNEL NERTWORK
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w1577710403.m3u8
 
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/TV%20JAPI.jpg" group-title="SÉRIES, ANIMES E FILMES", TV JAPI
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/TV%20JAPI.jpg" group-title=" SÉRIES, ANIMES E FILMES ", TV JAPI
 https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1609421454.m3u8
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/TV%20JORNAL%20DO%20NORDESTE.png" group-title="SÉRIES, ANIMES E FILMES", TV JORNAL DO NORDESTE
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/TV%20JORNAL%20DO%20NORDESTE.png" group-title=" SÉRIES, ANIMES E FILMES ", TV JORNAL DO NORDESTE
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/TV%20MANCHETE%201.png" group-title="SÉRIES, ANIMES E FILMES", TV MANCHETE 1
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/TV%20MANCHETE%201.png" group-title=" SÉRIES, ANIMES E FILMES ", TV MANCHETE 1
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1059031771.m3u8
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/TV%20MANCHETE%202.jpg" group-title="SÉRIES, ANIMES E FILMES", TV MANCHETE 2
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/TV%20MANCHETE%202.jpg" group-title=" SÉRIES, ANIMES E FILMES ", TV MANCHETE 2
 https://stmv1.srvif.com/penasd/penasd/chunklist_w1994239603.m3u8
 
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/TV%20S%c3%89RIES.jpeg" group-title="SÉRIES, ANIMES E FILMES",TV SERIES
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/TV%20S%c3%89RIES.jpeg" group-title=" SÉRIES, ANIMES E FILMES ",TV SERIES
 https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/TWG.jpg" group-title="SÉRIES, ANIMES E FILMES", TWG
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/TWG.jpg" group-title=" SÉRIES, ANIMES E FILMES ", TWG
 https://stmv1.srvif.com/radiowebguarei/radiowebguarei/chunklist_w1981731542.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/VILA%20TV.png" group-title="SÉRIES, ANIMES E FILMES", VILA TV
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/VILA%20TV.png" group-title=" SÉRIES, ANIMES E FILMES ", VILA TV
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1323783208.m3u8
 
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/VIVA.png" group-title="CLASSICOS", VIVA
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/VIVA.png" group-title=" CLASSICOS ", VIVA
 https://m3u9.ml/b/hls1/viva.m3u8?mu3zAQc9HC3GbwJq=ddgzGueCi0gNqknEI-mY1Q&3U1G7qaTxrPbalZnEx=1633591939
 
-
-
-#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/WARNER.png" group-title="SÉRIES, ANIMES E FILMES", WARNER CHANNEL
+#EXTINF:-1 tvg-logo="http://consultareds.byethost4.com/m3u/LOGO/WARNER.png" group-title=" SÉRIES, ANIMES E FILMES ", WARNER CHANNEL
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8
 
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/WEB%20TV%20XTREME.jpg" group-title="SÉRIES, ANIMES E FILMES", WEB TV EXTREME
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/WEB%20TV%20XTREME.jpg" group-title=" SÉRIES, ANIMES E FILMES ", WEB TV EXTREME
 https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w1907953649.m3u8
 
-#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/WHAM%20TV%20CLASSIC.jpg" group-title="SÉRIES, ANIMES E FILMES", WHAM TV CLASSIC
+#EXTINF:-1 tvg-logo="ftp://b4_16840080@ftp.byethost4.com/htdocs/m3u/LOGO/WHAM%20TV%20CLASSIC.jpg" group-title=" SÉRIES, ANIMES E FILMES ", WHAM TV CLASSIC
 https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w813827152.m3u8
