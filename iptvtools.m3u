@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?
+#EXTINF:-1,BONS TEMPOS TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w186200016.m3u8
+#EXTINF:-1,COM BRASIL
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8?IMDSFULL
+#EXTINF:-1,CULTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8?IMDSFULL
+#EXTINF:-1,GOSPEL MOVIES TELEVISION
+https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?
+#EXTINF:-1,JETSONS TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1154195187.m3u8
+#EXTINF:-1,FILMES 24H 1
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
+#EXTINF:-1,NOVO TEMPO 1
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1,NOVO TEMPO 2
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?KeltecMPIPTV
+#EXTINF:-1,RECORD NEWS
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1,REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1,RETRÔ CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1,RETROTV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,SBT
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8?
+#EXTINF:-1,TV APARECIDA
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+#EXTINF:-1,TV CÂMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8?IMDSFULL
+#EXTINF:-1,TV CHANNEL NERTWORK
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w1577710403.m3u8
+#EXTINF:-1,TV JAPI
+https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1609421454.m3u8
+#EXTINF:-1,VILA TV
+https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1323783208.m3u8
